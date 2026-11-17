@@ -1,0 +1,9 @@
+Package: com.local.navercafelite
+Name: NaverCafeLite
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Lightweight Naver Cafe web wrapper
+Maintainer: local
+Author: local
+Section: Utilities
+Depends: firmware (>= 14.0)
